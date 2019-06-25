@@ -1,0 +1,9 @@
+.box{
+  display: flex
+}
+.left,.right{
+  flex: 1
+}
+.left{
+  border-right: 1px solid #000
+}
